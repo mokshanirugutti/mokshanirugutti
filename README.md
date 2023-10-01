@@ -56,8 +56,8 @@
       <br>cpp
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
-      <br>git
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
+      <br>JavaScript
     </td>
     <td align="center"  width="85">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
