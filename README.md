@@ -27,7 +27,7 @@
     </td>
      <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="django" />
-      <br>djnago
+      <br>django
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
