@@ -52,16 +52,39 @@
       <br>CSS
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="cpp" />
-      <br>cpp
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+      <br>docker
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       <br>JavaScript
     </td>
     <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
-      <br>github
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+      <br>react
+    </td>
+  </tr>
+    </tr>
+   <tr>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="65" height="45" />
+      <br>Typescript
+    </td>
+     <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+      <br>postgres
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+      <br>mongoDB
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>TailwindCSS
+    </td>
+    <td align="center"  width="85">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>postman
     </td>
   </tr>
 </table>
