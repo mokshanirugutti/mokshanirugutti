@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **mokshasai910@gmail.com**
 - 🔗[portfolio websites](http://moksha-nirugutti-portfolio.vercel.app/)
+- [![](https://visitcount.itsvg.in/api?id=mokshanirugutti&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
