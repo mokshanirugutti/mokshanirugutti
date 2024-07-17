@@ -25,8 +25,8 @@
 <table align="center">
   <tr>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="45" />
-      <br>C
+        <img src="https://skillicons.dev/icons?i=next" alt="icon" width="65" height="45" />
+      <br>Nextjs
     </td>
      <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="django" />
