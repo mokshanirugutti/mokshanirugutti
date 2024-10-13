@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+moksha+Nirugutti+%F0%9F%91%8B;I'm+a+Full+Stack+developer+%F0%9F%92%BB%F0%9F%96%A5%F0%9F%93%B1)](https://git.io/typing-svg)
 
-<h1 align="center">Hi, I'm Moksha Nirugutti</h1>
 <h3 align="center">Working on getting better with my Full Stack skills</h3>
 
 
