@@ -31,6 +31,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,react,nextjs,mysql,django,postman,linux,docker" /><br>
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mokshanirugutti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <h1>Stats</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshanirugutti&show_icons=true&locale=en&layout=compact" alt="mokshanirugutti" /></p>
 
