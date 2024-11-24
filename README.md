@@ -4,8 +4,7 @@
 <h3 align="center">“We don't rise to the level of our expectations, we fall to the level of our training.”</h3>
 
 [![](https://visitcount.itsvg.in/api?id=mokshanirugutti&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me🤝:</h2>
 
 <div align="center"> 
   <a href="mailto:mokshasai910@gmail.com">
@@ -24,14 +23,14 @@
 </div>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,postgresql,vscode,github,nextjs,tailwind" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,react,nextjs,mysql,django,postman,linux,docker" /><br>
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=mokshanirugutti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <h1>Stats</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshanirugutti&show_icons=true&locale=en&layout=compact" alt="mokshanirugutti" /></p>
