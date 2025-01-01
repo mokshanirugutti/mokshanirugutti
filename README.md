@@ -32,10 +32,14 @@
 
 ## 🏆 GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=mokshanirugutti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <h1>Stats</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshanirugutti&show_icons=true&locale=en&layout=compact" alt="mokshanirugutti" /></p>
+<div style="display:flex;">
+  
+![mokshanirugutti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mokshanirugutti&theme=vue-dark&hide_border=false)
+![mokshanirugutti's Stats](https://github-readme-stats.vercel.app/api?username=mokshanirugutti&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![mokshanirugutti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokshanirugutti&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokshanirugutti&" alt="mokshanirugutti" /></p>
-
+</div>
 
 [![An image of @mokshanirugutti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mokshanirugutti)](https://holopin.io/@mokshanirugutti)
