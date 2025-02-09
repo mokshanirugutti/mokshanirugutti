@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+moksha+Nirugutti+%F0%9F%91%8B;Full+Stack+developer+%F0%9F%92%BB%F0%9F%96%A5%F0%9F%93%B1&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3004&pause=500&width=435&lines=HI%2C+I'm+Moksha+Nirugutti+%F0%9F%91%8B;Full+stack+Developer+%F0%9F%92%BB%F0%9F%93%B1%F0%9F%96%A5%EF%B8%8F;Mechanical+keyboards+%F0%9F%98%8D;70+WPM+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 <h3 align="center">“We don't rise to the level of our expectations, we fall to the level of our training.”</h3>
 
