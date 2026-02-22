@@ -47,3 +47,5 @@
 </div>
 
 [![An image of @mokshanirugutti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mokshanirugutti)](https://holopin.io/@mokshanirugutti)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/67c2fef1580201fc77a1df58?variant=dark)](https://roadmap.sh)
